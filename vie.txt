@@ -1,6 +1,2 @@
 Quick note.
-<<<<<<< HEAD
-yes
-=======
-no
->>>>>>> 782bd2dad70abaaa6ba8ab0db7083dc0314f1b35
+yes / no
